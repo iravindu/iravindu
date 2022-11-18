@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iravindu
-- 👀 I’m interested in Data Science and Related Areas
-- 🌱 I’m currently learning SQL and Python
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently working on a Deep Learning Project
 - 💞️ I’m looking to collaborate on Data Science Projects.
 - 📫 How to reach me : email me on r.c.abeygunasekara@gmail.com 
 
