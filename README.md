@@ -1,9 +1,21 @@
 ![Header](./github-header-image.png)
-- 👋 Hi, I’m @iravindu
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently working on a Deep Learning Project
-- 💞️ I’m looking to collaborate on Data Science Projects.
-- 📫 How to reach me : email me on r.c.abeygunasekara@gmail.com 
+### Hi there 👋, Ravindu Abeygunasekara
+#### Helping People with Data
+![Helping People with Data](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I am Ravindu from Canada. I am a Passionate Data Scientist with the intention of making this world a Better Place with Data
+
+Skills: Machine Learning / Statistical Analysis and Modelling / Deep Learning / Natural Language Processing / Python / R / PowerBI / SQL
+
+- 🔭 I’m currently working on end to end Machine Learning Projects 
+- 👯 I’m looking to collaborate on Deep Learning Projects 
+- 💬 Ask me about Machine Learning, Statistical Analysis, Deep Learning and Natural Language Processing 
+- 📫 How to reach me: r.c.abeygunasekara@gmail.com 
+
+
+
+
+
 
 <!---
 iravindu/iravindu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
