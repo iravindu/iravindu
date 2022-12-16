@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 ### Hi there 👋, Ravindu Abeygunasekara
 #### Helping People with Data
-![Helping People with Data](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Helping People with Data]
 
 I am Ravindu from Canada. I am a Passionate Data Scientist with the intention of making this world a Better Place with Data
 
