@@ -1,4 +1,4 @@
-![Header](./GitHub-Banner-Ravindu.jpg)
+![Header](./github-banner-ravi.jpg)
 ### Hi there 👋, Ravindu Abeygunasekara
 #### Helping People with Data
 
